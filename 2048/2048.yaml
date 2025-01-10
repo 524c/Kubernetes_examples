@@ -33,7 +33,7 @@ metadata:
   name: app-2048
 spec:
   ports:
-    - port: 80
+    - port: 8080
       targetPort: 80
       protocol: TCP
   type: ClusterIP

@@ -2,6 +2,7 @@
 
 ```
 kubectl apply -f httpbin.yaml
+
 # port forward
 kubectl port-forward svc/httpbin 8080:8080
 

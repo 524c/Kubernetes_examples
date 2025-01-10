@@ -2,6 +2,7 @@
 
 ```bash
 kubectl apply -f 2048.yaml
+
 ## port forward
 kubectl port-forward svc/app-2048 8080:8080
 

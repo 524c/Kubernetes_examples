@@ -1,6 +1,6 @@
 ## Install httpbin
 
-```
+```bash
 kubectl apply -f httpbin.yaml
 
 ## port forward

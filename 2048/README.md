@@ -6,6 +6,7 @@ kubectl apply -f 2048.yaml
 kubectl port-forward svc/app-2048 8080:8080
 
 ## test
-open http://localhost:8080
+open in browser: http://localhost:8080
 ```
+
 # Kubernetes_examples
